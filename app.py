@@ -7,8 +7,8 @@ app = Flask(__name__)
 processed_data = {}
 
 # Replace with your actual Printful API key
-# PRINTFUL_API_KEY = 'printful_api_key'
-PRINTFUL_API_KEY = 'RZ1f8r0fHnwS9nJ2mZkDH5WpKnnnyNdyjm8NVjwK'
+
+PRINTFUL_API_KEY = ''
 
 # Set up headers for authentication
 headers = {
